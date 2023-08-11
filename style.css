@@ -10,6 +10,8 @@
 
 .hidden-overflow {
 	overflow-x: hidden;
+	overflow-y: hidden;
+
 }
 
 body {
