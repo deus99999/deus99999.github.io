@@ -8,6 +8,10 @@
 	--light-grey-color: #eee;
 }
 
+.hidden-overflow {
+	overflow: hidden;
+}
+
 body {
 	padding: 0;
 	margin: 0;
